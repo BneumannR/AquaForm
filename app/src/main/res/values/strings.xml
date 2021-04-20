@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AquaForm</string>
+    <string name="mensaje1">Feedassit</string>
+    <string name="mensaje2">SGR</string>
+    <string name="mensaje3">%PC</string>
+    <string name="mensaje4">GF3</string>
+    <string name="mensaje5">Informacion</string>
+    <string name="mensaje6">AquaForm</string>
+    <string name="mensaje7">AquaForm</string>
+
+
+    //Activity Gf3
+    <string name="mensaje8">Calculo crecimiento en base a Gf3</string>
+    <string name="mensaje9">Factor de crecimiento</string>
+    <string name="mensaje10">Peso Inicial (gramos) : </string>
+    <string name="mensaje12">Ingrese peso inicial en gramos: </string>
+    <string name="mensaje13">Temperatura (°C) : </string>
+    <string name="mensaje14">Temperatura en grados Celcius</string>
+    <string name="mensaje15">Días: </string>
+    <string name="mensaje16">Ingrese días de proyeccion </string>
+    <string name="mensaje17">Calcular Crecimiento</string>
+    <string name="mensaje18">Resultado peso proyectado</string>
+
+
+    //Activity SGR
+    <string name="mensaje19">Cálculo de crecimiento en base a SGR</string>
+    <string name="mensaje20">Tasa especifica de crecimiento</string>
+
+
+
+</resources>
